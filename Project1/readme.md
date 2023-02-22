@@ -2,7 +2,7 @@ Project name: Zack's time teller
 
 Description:
 
-    This powershell script displays the current date (in the format of month/day/year) and time (in the 24 hour format) at the time of running this script.
+This powershell script displays the current date (in the format of month/day/year) and time (in the 24 hour format) at the time of running this script.
 
 Instructions to allow powershell scripts to run on your computer:
     1. Press the windows key to bring up the search bar and type in "Powershell" to find an app named Windows Powershell
