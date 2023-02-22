@@ -5,7 +5,7 @@ const http = require("http");
 
 http.createServer((req, res) => {
 	if (req.url === "/") {
-	fs.readFile("./Public/index.html", "UTF-8", (err, body) => {
+	fs.readFile("./public/index.html", "UTF-8", (err, body) => {
 	res.writeHead(200, {"Content-Type": "text/html"});
 	res.end(body);
 	});
