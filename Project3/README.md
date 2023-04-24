@@ -1,6 +1,6 @@
 # RGB Color identifier and HTML image displayer
 
-##Uses
+## Uses
 
 This finds the RGB input of an image from a user-input URL. That same image is then referred to in an HTML document on a locally hosted web server.
 Knowing the primary RGB value of an image can be helpful for creating a collage, or by sorting images by their primary color.
@@ -15,7 +15,7 @@ npm install colorthief
 npm install prompt-sync
 ```
 
-##Running
+##R unning
 
 1. run Project3.js with nodejs 
 2. Enter a url, or leave blank to use a default placeholder (which defaults to https://raw.githubusercontent.com/pantchzk/it3038c-scripts/main/Project3/Forest.jpg)
