@@ -15,14 +15,14 @@ npm install colorthief
 npm install prompt-sync
 ```
 
-##R unning
+## Running
 
 1. run Project3.js with nodejs 
 2. Enter a url, or leave blank to use a default placeholder (which defaults to https://raw.githubusercontent.com/pantchzk/it3038c-scripts/main/Project3/Forest.jpg)
 3. After receiving the RGB value and getting a confirmation that the image can be viewed, open a web browser and navigate to http://localhost:3000
 
 
-##Packages required and their documentation
+## Packages required and their documentation
 
 Prompt-sync: https://www.npmjs.com/package/prompt-sync
 Color-thief: https://www.npmjs.com/package/colorthief
